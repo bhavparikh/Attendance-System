@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+     android:paddingTop="200px"  
+     android:background="@drawable/yash"
+         >
+    <Button 
+  		android:id="@+id/man_stu"
+  		android:paddingTop="20px"
+  		android:text="Manage Students"
+  		android:layout_gravity="center"
+  		android:layout_width="wrap_content"
+  		android:layout_height="wrap_content"
+  		android:onClick="manage_stud"
+  		android:clickable="true"
+  		
+  />
+  <Button 
+  		android:id="@+id/sin"
+  		android:paddingTop="20px"
+  		android:text="Mark Attendance"
+  		android:layout_gravity="center"
+  		android:layout_width="wrap_content"
+  		android:layout_height="wrap_content"
+  		android:onClick="mark_att"
+  		android:clickable="true"
+  		
+  />
+
+	<Button
+		android:id="@+id/view"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center"
+		android:clickable="true"
+		android:onClick="view_att"
+		android:paddingTop="20px"
+		android:text="View Attendance"
+
+		/>
+
+	<Button
+		android:id="@+id/view1"
+		android:layout_width="400px"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center"
+		android:clickable="true"
+		android:onClick="log_out"
+		android:paddingTop="20px"
+		android:text="Log Out"
+
+		/>
+  
+    </LinearLayout>

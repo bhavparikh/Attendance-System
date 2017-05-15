@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\manage.xml",
+        "source": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\src\\main\\res\\layout\\manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\display1.xml",
+        "source": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\src\\main\\res\\layout\\display1.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_att.xml",
+        "source": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\src\\main\\res\\layout\\list_att.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin.xml",
+        "source": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\src\\main\\res\\layout\\admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\att_display.xml",
+        "source": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\src\\main\\res\\layout\\att_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\display.xml",
+        "source": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\src\\main\\res\\layout\\display.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_page.xml",
+        "source": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\src\\main\\res\\layout\\admin_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\details.xml",
+        "source": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\src\\main\\res\\layout\\details.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\details_admin.xml",
+        "source": "C:\\Users\\bhavya\\AndroidStudioProjects\\Attendance-System-master\\app\\src\\main\\res\\layout\\details_admin.xml"
+    }
+]
